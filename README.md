@@ -62,7 +62,7 @@ This picture below is MASC Online Path Planning Architecture.
     to put airplane to wherever the engine is broken. And then click the stop button at the up right 
     corner of the X-Plane window. 
     [Client matlab program](https://github.com/haotiangu/XPlaneConnect.git)
-2.  Set up the engine out global position in malfunction position configuretion block
+2.  Set up the engine out global position in malfunction position configuration block
 3.  Set up the airport coordinates in simulink framework
 4.  Click the run button to start the simulink model first.   
    ```
@@ -90,15 +90,7 @@ This picture below is MASC Online Path Planning Architecture.
 
 Thank you for citing [our *MASC* paper](./AIAA_SciTech_2023___Automatic_Emergency_Landing.pdf) if you use any of this code: 
 ```
-@inproceedings{legoloam2018,
-  title={LeGO-LOAM: Lightweight and Ground-Optimized Lidar Odometry and Mapping on Variable Terrain},
-  author={Shan, Tixiao and Englot, Brendan},
-  booktitle={IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
-  pages={4758-4765},
-  year={2018},
-  organization={IEEE}
-}
+The reference bib form will be posted here later. Thank you for citing our paper.
 ```
 
-## Simulation under the windy weather and Turbulence
 
