@@ -64,12 +64,12 @@ This picture below is MASC Online Path Planning Architecture.
     [Client matlab program](https://github.com/haotiangu/XPlaneConnect.git)
 2.  Set up the engine out global position in malfunction position configuration block
 3.  Set up the airport coordinates in simulink framework
-4.  Click the run button to start the simulink model first.   
+4.  Click the run button to start the simulink model first and then click the start button in the up right
+   corner of the X-Plane window.   
    ```
    sim("fixedWingPathFollowing");
    ``` 
-6.  And then click the start button in the up right
-   corner of the X-Plane window. Or run command in the matlab terminal to end this simulation.
+6.  Run command in the matlab terminal to end this simulation.
  
    ```
    close_system("fixedWingPathFollowing");
