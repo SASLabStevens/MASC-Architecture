@@ -1,7 +1,7 @@
 # Multi-Level-Adaptation-for-Automatic-Landing-with-Engine-Failure-under-Turbulence-Uncertainties
 
 This repository contains MASC Online navigation scheme, with support of Non linear guidance logic, a high fidelity simulation environment(X-Plane), and User Datagram Protocol (UDP) based interface. The system takes in landing zone coordinates and position coordinates where engine is malfunction. It later navigates the engine-out airplane to the approachable safty landing position in real-time.
-[![Video abstract](https://img.youtube.com/vi/3o-n0vZu0ps/0.jpg)](https://drive.google.com/file/d/1WmX2kXaYxDslZy5klvJAoZgwgKunmYe_/view?usp=sharing)
+[![Video abstract](/TuningWaypointFollowerForFixedWingUAVExample/graph/SIL_Sunny.png)](https://drive.google.com/file/d/1WmX2kXaYxDslZy5klvJAoZgwgKunmYe_/view?usp=sharing)
 
 [![Video abstract](https://img.youtube.com/vi/3o-n0vZu0ps/0.jpg)](https://drive.google.com/file/d/1-ySVJM_X1KhCySdqqr3tfN-P7GjJw5o3/view?usp=sharing)
 A demonstration of the system in clear weather can be found here -> https://drive.google.com/file/d/1WmX2kXaYxDslZy5klvJAoZgwgKunmYe_/view?usp=sharing
