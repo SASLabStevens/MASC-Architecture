@@ -94,9 +94,14 @@ This picture below is MASC Online Path Planning Architecture.
    ```
 ## Cite *MASC*
 
-Thank you for citing [our *MASC* paper](./AIAA_SciTech_2023___Automatic_Emergency_Landing.pdf) if you use any of this code: 
+Thank you for citing [our *MASC* paper](./Multi_Level_Adaptive_Control.pdf) if you use any of this code: 
 ```
-The reference bib form will be posted here later. Thank you for citing our paper.
+@article{gu2022multi,
+  title={Multi-level Adaptation for Automatic Landing with Engine Failure under Turbulent Weather},
+  author={Gu, Haotian and Jafarnejadsani, Hamidreza},
+  journal={arXiv preprint arXiv:2209.04132},
+  year={2022}
+}
 ```
 
 
