@@ -14,6 +14,13 @@ This picture below is MASC Online Path Planning Architecture.
     <img src="/TuningWaypointFollowerForFixedWingUAVExample/graph/MASC Autopilot.png" alt="drawing" width="700"/>
 </p>
 
+### 📖 Real-ESRGAN: Training Real-World Blind Super-Resolution with Pure Synthetic Data
+
+> [[Paper](https://arc.aiaa.org/eprint/38QXIWHCHC7AI9AGVCST/full/10.2514/6.2023-0697)] &emsp; [[SITL Simulation Video In Clear Weather](https://drive.google.com/file/d/1WmX2kXaYxDslZy5klvJAoZgwgKunmYe_/view?usp=sharing)] &emsp;  [[SITL Simulation Video In Turbulent Weather](https://drive.google.com/file/d/1-ySVJM_X1KhCySdqqr3tfN-P7GjJw5o3/view?usp=sharing)] &emsp; [[PPT slides](https://drive.google.com/file/d/1hBzhVMKTlmYcVpDXX8WOoF6kMFxH03yL/view?usp=share_link)]<br>
+> [Xintao Wang](https://xinntao.github.io/), Liangbin Xie, [Chao Dong](https://scholar.google.com.hk/citations?user=OSDCB0UAAAAJ), [Ying Shan](https://scholar.google.com/citations?user=4oXBp9UAAAAJ&hl=en) <br>
+> [Stevens Institute od Technology SAS Lab](https://saslabstevens.github.io/);
+
+
 
 ## Features
 
@@ -107,6 +114,6 @@ Thank you for citing [our *MASC* paper](./Multi_Level_Adaptive_Control.pdf) if y
 
 ## 📧 Contact
 
-If you have any question, please email `haotiangu1993@gmail.com` or `hgu8@stevens.edu`.
+If you encounter some issue when reproducing this project, please email `haotiangu1993@gmail.com` or `hgu8@stevens.edu`.
 
 
