@@ -2,7 +2,7 @@
 
 This repository contains MASC Online navigation scheme, with support of Non linear guidance logic, a high fidelity simulation environment(X-Plane), and User Datagram Protocol (UDP) based interface. The system takes in landing zone coordinates and position coordinates where engine is malfunction. It later navigates the engine-out airplane to the approachable safty landing position in real-time.
 A demonstration of the system in clear weather can be found here
-
+## 👀 Demos Videos
 [<img src="/TuningWaypointFollowerForFixedWingUAVExample/graph/SIL_Sunny.png" alt = "drawing" width="500">](https://drive.google.com/file/d/1WmX2kXaYxDslZy5klvJAoZgwgKunmYe_/view?usp=sharing)
 
 Simulation under the turbulence accompanied weather can be found here
@@ -24,7 +24,7 @@ This picture below is MASC Online Path Planning Architecture.
 - Decoupled longitudinal and lateral motion control
 - Light weight online path planning framework(Low computation demanded)
 
-## Dependencies
+## 🔧 Dependencies
 
 - [MATALB R2021a](https://www.mathworks.com/products/new_products/previous_release_overview.html)
 - [DSP System Toolbox](https://www.mathworks.com/products/dsp-system.html)
@@ -32,7 +32,7 @@ This picture below is MASC Online Path Planning Architecture.
 - [Aerospace Blockset](https://www.mathworks.com/products/aerospace-blockset.html)
 
 
-## Installation
+## 🔧 Installation
 
 
 #### Set up input data channel and output data channel in X-Plane
@@ -104,5 +104,9 @@ Thank you for citing [our *MASC* paper](./Multi_Level_Adaptive_Control.pdf) if y
   year={2022}
 }
 ```
+
+## 📧 Contact
+
+If you have any question, please email `haotiangu1993@gmail.com` or `hgu8@stevens.edu`.
 
 
