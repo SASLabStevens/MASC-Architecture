@@ -93,6 +93,7 @@ This picture below is MASC Online Path Planning Architecture.
     open_system('uavStepResponse');
    ```
 ## Cite *MASC*
+If MASC framework is helpful, please help to ⭐ this repo or recommend it to your friends 😊 <br>
 
 Thank you for citing [our *MASC* paper](./Multi_Level_Adaptive_Control.pdf) if you use any of this code: 
 ```
