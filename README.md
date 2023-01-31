@@ -17,7 +17,7 @@ This picture below is MASC Online Path Planning Architecture.
 
 ### 📖 Useful material
 
-> [[Paper](https://arc.aiaa.org/eprint/38QXIWHCHC7AI9AGVCST/full/10.2514/6.2023-0697)] &emsp; [[SITL Simulation Video In Clear Weather](https://drive.google.com/file/d/1WmX2kXaYxDslZy5klvJAoZgwgKunmYe_/view?usp=sharing)] &emsp;  [[SITL Simulation Video In Turbulent Weather](https://drive.google.com/file/d/1-ySVJM_X1KhCySdqqr3tfN-P7GjJw5o3/view?usp=sharing)] &emsp; [[PPT slides](https://drive.google.com/file/d/1hBzhVMKTlmYcVpDXX8WOoF6kMFxH03yL/view?usp=share_link)]<br>
+> [[Paper](https://arxiv.org/abs/2209.04132?context=eess)] &emsp; [[SITL Simulation Video In Clear Weather](https://drive.google.com/file/d/1WmX2kXaYxDslZy5klvJAoZgwgKunmYe_/view?usp=sharing)] &emsp;  [[SITL Simulation Video In Turbulent Weather](https://drive.google.com/file/d/1-ySVJM_X1KhCySdqqr3tfN-P7GjJw5o3/view?usp=sharing)] &emsp; [[PPT slides](https://drive.google.com/file/d/1hBzhVMKTlmYcVpDXX8WOoF6kMFxH03yL/view?usp=share_link)]<br>
 
 > [[Stevens Institute of Technology SAS Lab](https://saslabstevens.github.io/)] &emsp;
 
