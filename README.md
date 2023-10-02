@@ -4,10 +4,11 @@ This repository contains MASC Online navigation scheme, with support of Non line
 A demonstration of the system in clear weather can be found here
 ## 👀 Demos Videos
 
-[<img src="/TuningWaypointFollowerForFixedWingUAVExample/graph/SIL_Sunny.png" alt = "drawing" width="500">](https://drive.google.com/file/d/1WmX2kXaYxDslZy5klvJAoZgwgKunmYe_/view?usp=sharing)
 
-Simulation under the turbulence accompanied weather can be found here
-[<img src="/TuningWaypointFollowerForFixedWingUAVExample/graph/SIL_Turbulence.png" alt = "drawing" width="500">](https://drive.google.com/file/d/1-ySVJM_X1KhCySdqqr3tfN-P7GjJw5o3/view?usp=sharing)
+<p align="center">
+  <img src="files/MASC_Xplane_Simulation.gif" width = "400" height = "225" alt="Alt text" title="Optional title"/>
+  <!-- <img src="files/icra20_1.gif" width = "320" height = "180"/> -->
+</p>
 
 
 This picture below is MASC Online Path Planning Architecture.
