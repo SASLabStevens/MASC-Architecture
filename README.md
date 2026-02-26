@@ -114,8 +114,4 @@ Thank you for citing [our *MASC* paper](./Multi_Level_Adaptive_Control.pdf) if y
 }
 ```
 
-## 📧 Contact
-
-If you encounter some issue when reproducing this project, please email `haotiangu1993@gmail.com` or `hgu8@stevens.edu`.
-
 
